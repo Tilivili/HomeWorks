@@ -1,0 +1,15 @@
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\bin\Debug\net6.0\Домашнее Задание 1.exe
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\bin\Debug\net6.0\Домашнее Задание 1.deps.json
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\bin\Debug\net6.0\Домашнее Задание 1.runtimeconfig.json
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\bin\Debug\net6.0\Домашнее Задание 1.dll
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\bin\Debug\net6.0\Домашнее Задание 1.pdb
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\Домашнее Задание 1.csproj.AssemblyReference.cache
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\Домашнее Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\Домашнее Задание 1.AssemblyInfoInputs.cache
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\Домашнее Задание 1.AssemblyInfo.cs
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\Домашнее Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\Домашнее Задание 1.dll
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\refint\Домашнее Задание 1.dll
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\Домашнее Задание 1.pdb
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\Домашнее Задание 1.genruntimeconfig.cache
+C:\Users\tiliv\Desktop\Проекты\Домашнее Задание 1\obj\Debug\net6.0\ref\Домашнее Задание 1.dll
