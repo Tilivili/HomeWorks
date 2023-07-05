@@ -8,7 +8,8 @@ if(num1 > num2) Console.WriteLine(num1);
 else Console.WriteLine(num2);
 */
 
-//Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+//Задача 4: Напишите программу, которая принимает на вход три числа 
+//и выдаёт максимальное из этих чисел.
 /*
 Console.Write("input a first number: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
@@ -39,3 +40,19 @@ else
 }
 */
 
+//Задача 8: Напишите программу, которая на вход принимает число (Number),
+// а на выходе показывает все чётные числа от 1 до Number.
+/*
+Console.Write("input number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int i = 1;
+int max = num;
+while (i <= num)
+{
+    if (i % 2 == 0) 
+    {
+    Console.WriteLine(i);
+    }
+    i++;
+}
+*/
