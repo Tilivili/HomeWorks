@@ -30,15 +30,10 @@ Console.WriteLine(max);
 /*
 Console.Write("input number: ");
 int num = Convert.ToInt32(Console.ReadLine());
-if (num % 2 == 0)
-{
-    Console.WriteLine("Yes");
-}
-else
-{
-    Console.WriteLine("no");
-}
+if (num % 2 == 0) Console.WriteLine("Yes");
+else Console.WriteLine("no");
 */
+
 
 //Задача 8: Напишите программу, которая на вход принимает число (Number),
 // а на выходе показывает все чётные числа от 1 до Number.
