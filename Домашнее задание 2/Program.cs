@@ -15,3 +15,26 @@ Console.WriteLine($"New version number of {num} is {newNumber}");
 */
 
 //Задача 13: Напишите программу, которая выводит третью цифру заданного числа.
+/*
+int ThirdDigit(int num)     
+{
+    int result = -1;
+    if (num < 100)
+    {
+        Console.Write("there is no third number ");
+    }
+    else
+    {
+        while (num > 999)
+        {
+            num = num / 10;
+        }
+        result = num % 10;
+    }
+    return result;
+}
+Console.Write("input number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int newNumber = ThirdDigit(num); 
+Console.WriteLine($"New version number of {num} is {newNumber}");
+*/
