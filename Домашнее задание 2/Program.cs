@@ -38,3 +38,16 @@ int num = Convert.ToInt32(Console.ReadLine());
 int newNumber = ThirdDigit(num); 
 Console.WriteLine($"New version number of {num} is {newNumber}");
 */
+
+//Задача 15: Напишите программу, которая принимает на вход цифру, 
+//обозначающую день недели, и проверяет, является ли этот день выходным.
+/*
+Console.Write("Enter a day of week ");
+int Day = Convert.ToInt32(Console.ReadLine());
+if (Day >= 1 && Day <=7) 
+{
+	if (Day >= 6) Console.Write("holiday");
+    else Console.Write("Work!");
+} 
+else Console.Write("there are only 7 days in a week");
+*/
