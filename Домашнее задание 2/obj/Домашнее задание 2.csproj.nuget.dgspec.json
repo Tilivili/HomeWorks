@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее Задание 1\\Домашнее Задание 1.csproj": {}
+    "C:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее задание 2\\Домашнее задание 2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее Задание 1\\Домашнее Задание 1.csproj": {
+    "C:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее задание 2\\Домашнее задание 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее Задание 1\\Домашнее Задание 1.csproj",
-        "projectName": "Домашнее Задание 1",
-        "projectPath": "c:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее Задание 1\\Домашнее Задание 1.csproj",
+        "projectUniqueName": "C:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее задание 2\\Домашнее задание 2.csproj",
+        "projectName": "Домашнее задание 2",
+        "projectPath": "C:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее задание 2\\Домашнее задание 2.csproj",
         "packagesPath": "C:\\Users\\tiliv\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее Задание 1\\obj\\",
+        "outputPath": "C:\\Users\\tiliv\\Desktop\\Проекты\\Домашнее задание 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiliv\\AppData\\Roaming\\NuGet\\NuGet.Config"
