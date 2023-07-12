@@ -48,7 +48,7 @@ int y2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input z2 ");
 int z2 = Convert.ToInt32(Console.ReadLine());
 
-Console.Write(Distans (x1, y1, x2, y2, z1, z2));
+Console.Write(Distans (x1, y1, z1, x2, y2, z2));
 */
 
 //Задача 23 Напишите программу, которая принимает на вход число (N)
