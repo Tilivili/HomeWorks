@@ -1,5 +1,6 @@
 ﻿// Задача 19 Напишите программу, которая принимает на вход пятизначное 
 //число и проверяет, является ли оно палиндромом.
+//1 решение
 /*
 bool IsFiveDigit(int number)
 {
@@ -12,6 +13,18 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 bool result = IsFiveDigit(number);
 Console.WriteLine(result);
+*/
+
+//2 решение
+/*
+Console.Write("Enter number ");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number >= 1 && number <= 100000) 
+{
+	if (number / 10000 == number % 10 & number / 1000 % 10 == number % 100 / 10 ) Console.Write("palindrom");
+    else Console.Write("nePalindrom");
+} 
+else Console.Write("the number is not five-digit");
 */
 
 //Задача 21 Напишите программу, которая принимает на вход координаты двух точек 
