@@ -34,7 +34,6 @@ Console.Write($"Number > 0 : {kol(Array)}");
 //Задача 43: Напишите программу, которая найдёт точку пересечения двух прямых, 
 // заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; 
 // значения b1, k1, b2 и k2 задаются пользователем.
-
 /*
 Console.Write("Input b1: ");
 int b1 = Convert.ToInt32(Console.ReadLine());
@@ -45,13 +44,16 @@ int k1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("input k2: ");
 int k2 = Convert.ToInt32(Console.ReadLine());
 
-double x=(double)(b2-b1)/(k1-k2); 
+double x=(double)(b2-b1)/(k1-k2);
 double y=(double)(k1*(b2-b1))/(k1-k2)+b1;
-Console.Write($"the lines intersect at a point ({x},{y})");
-if (k1 == k2) Console.Write(" straight lines are parallel");
-if (k1 * x + b1 == 0 && k2 * x + b2 == 0) Console.Write(" straight lines match");
-
+if (k1 == k2 && b2 != b1) Console.Write(" straight lines are parallel");
+else if (k1 == k2 && b1 == b2) Console.Write(" straight lines match");
+else Console.Write($" the lines intersect at a point ({x},{y})");
 */
+
+
+
+
 
 
  
