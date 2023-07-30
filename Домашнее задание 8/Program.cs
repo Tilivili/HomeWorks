@@ -120,6 +120,109 @@ Show2dArray(myArray);
 LineNumberMin(myArray);
 */
 
+// Задача 58: Задайте две матрицы. Напишите программу,
+// которая будет находить произведение двух матриц.
+/*
+int[,] CreateRandomFirstMatrix(int rows, int columns, int minValue, int maxValue)
+{
+    int[,]matrix1 = new int[rows,columns];
+    for (int i = 0; i < rows; i++)
+        for (int j = 0; j < columns; j++)
+            matrix1[i, j] = new Random().Next(minValue, maxValue + 1);
+    return matrix1; 
+}
+
+int[,] CreateRandomSecondMatrix(int rows2, int columns2, int minValue2, int maxValue2)
+{
+    int[,]matrix2 = new int[rows2,columns2];
+    for (int x = 0; x < rows2; x++)
+        for (int y = 0; y < columns2; y++)
+            matrix2[x, y] = new Random().Next(minValue2, maxValue2 + 1);
+    return matrix2; 
+}
+
+void ShowMatrix1(int[,] matrix1)
+
+{
+    for (int i = 0; i < matrix1.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix1.GetLength(1); j++)
+            Console.Write(matrix1[i, j] + " ");
+
+        Console.WriteLine();
+    }
+}
+
+void ShowMatrix2(int[,] matrix2)
+
+{
+    for (int x = 0; x < matrix2.GetLength(0); x++)
+    {
+        for (int y = 0; y < matrix2.GetLength(1); y++)
+            Console.Write(matrix2[x, y] + " ");
+
+        Console.WriteLine();
+    }
+}
+
+int[,] Product(int[,] matrix1, int[,] matrix2)
+{
+    if(matrix1.GetLength(1) != matrix2.GetLength(0)) Console.WriteLine("Product not found");
+    int[,] product = new int[matrix1.GetLength(0), matrix2.GetLength(1)];
+            for (int i = 0; i < matrix1.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix2.GetLength(1); j++)
+                {
+                    for (int k = 0; k < matrix2.GetLength(0); k++)
+                    {
+                        product[i,j] += matrix1[i,k] * matrix2[k,j];
+                    }
+                }
+            }
+            return product;
+
+}
+
+ void Print(int[,] matrix3)
+        {
+            for (int i = 0; i < matrix3.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix3.GetLength(1); j++)
+                {
+                    Console.Write("{0} ", matrix3[i, j]);
+                }
+                Console.WriteLine();
+            }
+        }
+
+Console.Write("input a number of rows: ");
+int rows = Convert.ToInt32(Console.ReadLine());
+Console.Write("input a number of columns: ");
+int columns = Convert.ToInt32(Console.ReadLine());
+Console.Write("input a min possible value: ");
+int minValue = Convert.ToInt32(Console.ReadLine());
+Console.Write("input a max possible value: ");
+int maxValue = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("input a number of rows2: ");
+int rows2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("input a number of columns2: ");
+int columns2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("input a min2 possible value: ");
+int minValue2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("input a max2 possible value: ");
+int maxValue2 = Convert.ToInt32(Console.ReadLine());
+
+int[,] matrix1 = CreateRandomFirstMatrix(rows, columns, minValue, maxValue);
+int[,] matrix2 = CreateRandomSecondMatrix(rows2, columns2, minValue2, maxValue2);
+int[,] product = Product(matrix1, matrix2);
+ShowMatrix1(matrix1);
+Console.WriteLine("--------------------------");
+ShowMatrix2(matrix2);
+Console.WriteLine("--------------------------");
+Console.WriteLine("product = matrix1 * matrix2: ");
+Print(product);  
+*/
 // Задача 60. ...Сформируйте трёхмерный массив из неповторяющихся двузначных чисел.
 // Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
 // Массив размером 2 x 2 x 2
