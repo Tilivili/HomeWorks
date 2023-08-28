@@ -1,0 +1,15 @@
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\bin\Debug\net6.0\Итоговая Контрольная.exe
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\bin\Debug\net6.0\Итоговая Контрольная.deps.json
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\bin\Debug\net6.0\Итоговая Контрольная.runtimeconfig.json
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\bin\Debug\net6.0\Итоговая Контрольная.dll
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\bin\Debug\net6.0\Итоговая Контрольная.pdb
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\Итоговая Контрольная.csproj.AssemblyReference.cache
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\Итоговая Контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\Итоговая Контрольная.AssemblyInfoInputs.cache
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\Итоговая Контрольная.AssemblyInfo.cs
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\Итоговая Контрольная.csproj.CoreCompileInputs.cache
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\Итоговая Контрольная.dll
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\refint\Итоговая Контрольная.dll
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\Итоговая Контрольная.pdb
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\Итоговая Контрольная.genruntimeconfig.cache
+C:\Users\tiliv\Desktop\Проекты\Итоговая Контрольная\obj\Debug\net6.0\ref\Итоговая Контрольная.dll
